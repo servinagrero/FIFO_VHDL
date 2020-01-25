@@ -1,4 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/l0331119/Downloads/fifo_biblioteca/entregable_1/entregable_1.srcs/sources_1/new/CONV_DEC_BIN.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity CONV_DEC_BIN
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/l0331119/Downloads/fifo_biblioteca/entregable_1/entregable_1.sim/fifo_tb.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity fifo_tb
